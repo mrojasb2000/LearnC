@@ -4,6 +4,6 @@
 
 int main(void)
 {
-    printf("\"If at frist you don't secced, try, try, try again!\"");
+    printf("\"If at first you don't secced, try, try, try again!\"");
     return 0;
 }
